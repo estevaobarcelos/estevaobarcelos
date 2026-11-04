@@ -20,7 +20,7 @@ Multiomics bioinformaticist · CITE-seq · ChIP-seq · bulk RNA-seq · genomics
 ## 🛠️ Stack
 
 **R (primary):** Seurat · Signac · DESeq2 · edgeR · ChIPseeker · DiffBind · ggplot2 · Bioconductor  
-**Python (learning):** Scanpy · AnnData · pandas  
+**Python:** Scanpy · AnnData · pandas  
 **Workflow & repro:** bash · SLURM · renv · Quarto
 
 ---
