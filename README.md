@@ -27,15 +27,21 @@ Multiomics bioinformaticist · CITE-seq · ChIP-seq · bulk RNA-seq · genomics
 
 ## 🧫 Background
 
-Spent 10 years in experimental biology before transitioning full-time
-to bioinformatics in 2023. Wet lab experience includes:
+Spent 10 years in experimental biology before transitioning full-time to bioinformatics in 2023.
 
-- Cell culture (in vitro) and animal models (in vivo)
-- Immunology assays
-- Western blotting · RT-qPCR · digital PCR
+Wet-lab experience includes:
 
-This bench background drives a strong focus on biological
-interpretability — not just statistical outputs.
+Cell biology: In vitro cell culture, MTT, Giemsa staining, and colourimetric viability assays.
+
+Immunology: Annexin V/PI flow cytometry, ELISA, and immunological assays.
+
+Molecular biology: Western blotting, RT-qPCR, and digital PCR.
+
+Microbiology & parasitology: Staphylococcus aureus, nasal vaccine research, fungal cultivation, and Leishmania infantum in vitro and in vivo assays.
+
+Preclinical research: Animal models and in vivo toxicity assessment.
+
+This experimental background drives my approach to bioinformatics, with a strong focus on biological context, experimental understanding, and meaningful interpretation — not just statistical outputs.
 
 ---
 
